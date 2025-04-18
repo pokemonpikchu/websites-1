@@ -1,0 +1,54 @@
+.name{
+font-size: 12rem;
+padding: 50px; 
+color:darkblue;
+}
+.subhead{
+    text-align:center;
+    background-color: darkblue;
+    color:antiquewhite;
+    padding: 5px;
+    margin: 30px;
+}
+.subhead:hover{
+    background-color: crimson;
+}
+.cardrow{
+    align-items: center;
+    margin: 30px;
+    padding: 20px;
+    background-color: rgb(212, 173, 0);
+}
+.card{
+    height: 30rem;
+    border-radius: 20px; 
+}
+.card-img-top{
+    height: 35%;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 30px;
+}
+.card-title{
+    color:darkblue;
+    text-align: center;
+}
+.card:hover{
+    background-color: orange;
+}
+.footer{
+text-align: center;    
+background-color: rgb(25, 0, 255);
+color: rgb(255, 255, 255);
+padding: 30px;
+}
+i{
+color: red;    
+}
+.content{
+    background-color: skyblue;
+  color: blue;  
+padding: 30px;
+margin: 20px;
+border-radius: 20px;
+}
